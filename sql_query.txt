@@ -1,0 +1,24 @@
+CREATE TABLE Categories (
+	Id int primary key,
+	"Name" varchar(25) not null
+);
+
+INSERT INTO Categories
+VALUES
+	(1, 'fruit'),
+	(2, 'bird');
+
+CREATE TABLE Products (
+	Id int primary key,
+	"Name" varchar(25) not null,
+	"Category_Id" int foreign key
+);
+
+INSERT INTO Products
+VALUES
+	(1, 'apple', 1),
+	(2, 'pear', 1),
+	(3, 'seagull', 2)
+	(4, 'rabbit');
+
+SELECT Products.Name, Categories.Name FROM "Products" LEFT JOIN "Categories" ON Products.Category_Id = Categories.Id;
