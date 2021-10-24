@@ -1,0 +1,8 @@
+C:\MindBox-FigureArea\bin\Debug\netcoreapp3.1\MindBox-FigureArea.deps.json
+C:\MindBox-FigureArea\bin\Debug\netcoreapp3.1\MindBox-FigureArea.dll
+C:\MindBox-FigureArea\bin\Debug\netcoreapp3.1\MindBox-FigureArea.pdb
+C:\MindBox-FigureArea\obj\Debug\netcoreapp3.1\MindBox-FigureArea.AssemblyInfoInputs.cache
+C:\MindBox-FigureArea\obj\Debug\netcoreapp3.1\MindBox-FigureArea.AssemblyInfo.cs
+C:\MindBox-FigureArea\obj\Debug\netcoreapp3.1\MindBox-FigureArea.csproj.CoreCompileInputs.cache
+C:\MindBox-FigureArea\obj\Debug\netcoreapp3.1\MindBox-FigureArea.dll
+C:\MindBox-FigureArea\obj\Debug\netcoreapp3.1\MindBox-FigureArea.pdb
