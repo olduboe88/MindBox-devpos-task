@@ -1,0 +1,1 @@
+# MindBox-devpos-task
